@@ -15,6 +15,8 @@ Conteúdo abordado:
 * Medidas Separatrizes
 * Medidas de Disperção
 
+No final dessa parte, foi desenvolvida uma análise descritiva dos dados usados no curso. O resultado está no Notebook: Análise_Descritiva.ipynb
+
 ## Parte 2: Probabilidade e Amostragem
 
 Conteúdo Abordado:
